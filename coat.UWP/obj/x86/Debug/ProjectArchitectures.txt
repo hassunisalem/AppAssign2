@@ -1,0 +1,1 @@
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.UWP\coat.UWP.csproj;x86

@@ -1,0 +1,12 @@
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\bin\Debug\netstandard2.0\coat.deps.json
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\bin\Debug\netstandard2.0\coat.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\bin\Debug\netstandard2.0\coat.pdb
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.csprojAssemblyReference.cache
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.csproj.CoreCompileInputs.cache
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.AssemblyInfoInputs.cache
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.AssemblyInfo.cs
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.pdb
