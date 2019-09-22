@@ -317,6 +317,18 @@
           }
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -358,6 +370,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -849,6 +862,18 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -890,6 +915,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -1382,6 +1408,18 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -1423,6 +1461,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -1736,6 +1775,18 @@
           "lib/uap10.0/Microsoft.Graphics.Canvas.winmd": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -1777,6 +1828,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -2268,6 +2320,18 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -2309,6 +2373,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -2801,6 +2866,18 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -2842,6 +2919,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -3333,6 +3411,18 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -3374,6 +3464,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -3866,6 +3957,18 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
+        },
+        "compile": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.15063/Plugin.TextToSpeech.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -3907,6 +4010,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.TextToSpeech": "4.0.0.7",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -7689,6 +7793,32 @@
         "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll",
         "win2d.uwp.1.20.0.nupkg.sha512",
         "win2d.uwp.nuspec"
+      ]
+    },
+    "Xam.Plugins.TextToSpeech/4.0.0.7": {
+      "sha512": "XFf3HBQCeFetL8cEEcKkinqZ1d2L3XYQLhj83gPTIsWVsXoOQWKOyjRs9ZmDBuwWwNvVt5wlKHY+zpWXfeJJZw==",
+      "type": "package",
+      "path": "xam.plugins.texttospeech/4.0.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid71/Plugin.TextToSpeech.dll",
+        "lib/monoandroid71/Plugin.TextToSpeech.xml",
+        "lib/netstandard1.0/Plugin.TextToSpeech.dll",
+        "lib/netstandard1.0/Plugin.TextToSpeech.xml",
+        "lib/netstandard2.0/Plugin.TextToSpeech.dll",
+        "lib/netstandard2.0/Plugin.TextToSpeech.xml",
+        "lib/uap10.0.15063/Plugin.TextToSpeech.dll",
+        "lib/uap10.0.15063/Plugin.TextToSpeech.pri",
+        "lib/uap10.0.15063/Plugin.TextToSpeech.xml",
+        "lib/xamarinios10/Plugin.TextToSpeech.dll",
+        "lib/xamarinios10/Plugin.TextToSpeech.xml",
+        "lib/xamarinmac20/Plugin.TextToSpeech.dll",
+        "lib/xamarinmac20/Plugin.TextToSpeech.xml",
+        "lib/xamarintvos10/Plugin.TextToSpeech.dll",
+        "lib/xamarintvos10/Plugin.TextToSpeech.xml",
+        "xam.plugins.texttospeech.4.0.0.7.nupkg.sha512",
+        "xam.plugins.texttospeech.nuspec"
       ]
     },
     "Xamarin.Essentials/1.3.0": {

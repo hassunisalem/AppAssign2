@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"coat.Android.dll",
 		"coat.dll",
 		"FormsViewGroup.dll",
+		"Plugin.TextToSpeech.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

@@ -4,10 +4,16 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="coat.MainPage">
+             x:Class="coat.MainPage"  >
 
-    <StackLayout HorizontalOptions="Center"
+    
+    
+    <StackLayout x:Name="page" BackgroundColor="White"   HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" >
+        <StackLayout>
+            <Button Text="vibrate" Clicked="ChangeToVPage"/>
+            <Button Text="TextToS" Clicked="ChangeToVPage"/>
+        </StackLayout>
         <!-- Place new controls here -->
         <Label x:Name="LabelLevel"/>
         <Label x:Name="LabelState"/>
@@ -15,3 +21,4 @@
     </StackLayout>
 
 </ContentPage>
+

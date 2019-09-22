@@ -20,8 +20,22 @@ namespace coat
             Battery.BatteryInfoChanged += Battery_BatteryInfoChanged;
 
         }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            BatteryStats();
+            SetCollor();
+        }
+
 
         private void Battery_BatteryInfoChanged(object sender, BatteryInfoChangedEventArgs e)
+        {
+            BatteryStats();
+            SetCollor();
+        }
+
+
+        public void BatteryStats()
         {
             var level = Battery.ChargeLevel; // returns 0.0 to 1.0 or 1.0 when on AC or no battery.
 
@@ -70,6 +84,39 @@ namespace coat
             LabelLevel.Text = "Level: " + level + "";
             LabelState.Text = "State: " + state + "";
             LabelPowersource.Text = "PowerSource: " + source + "";
+        }
+
+
+        public void SetCollor()
+        {
+            var level = Battery.ChargeLevel;
+
+            if (level > 0.5)
+            {
+                page.BackgroundColor = Xamarin.Forms.Color.Green;
+            }
+
+            if (level < 0.5)
+            {
+                page.BackgroundColor = Xamarin.Forms.Color.Orange;
+            }
+
+            if (level < 0.2)
+            {
+                DisplayAlert("Battery level low!", "Battery is under 20%", "OK");
+                Vibration.Vibrate(TimeSpan.FromSeconds(1));
+                page.BackgroundColor = Xamarin.Forms.Color.Red;
+            }
+        }
+
+        private void ChangeToVPage(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new vibrationPage());
+        }
+
+        private void ChangeToTPage(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new vibrationPage());
         }
     }
 }

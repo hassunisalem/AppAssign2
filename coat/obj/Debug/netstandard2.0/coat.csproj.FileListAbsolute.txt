@@ -7,6 +7,8 @@ C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netst
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.csproj.CoreCompileInputs.cache
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.AssemblyInfoInputs.cache
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.AssemblyInfo.cs
-C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\coat.pdb
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\vibrationPage.xaml.g.cs
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\TextToS.xaml.g.cs
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat\obj\Debug\netstandard2.0\XamlC.stamp

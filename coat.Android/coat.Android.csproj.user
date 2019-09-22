@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>my_android</SelectedDevice>
     <DefaultDevice>my_android</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
