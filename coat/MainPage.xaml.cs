@@ -116,7 +116,7 @@ namespace coat
 
         private void ChangeToTPage(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new vibrationPage());
+            Navigation.PushAsync(new TextToS());
         }
     }
 }

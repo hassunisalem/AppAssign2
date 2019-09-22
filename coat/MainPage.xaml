@@ -12,7 +12,7 @@
            VerticalOptions="CenterAndExpand" >
         <StackLayout>
             <Button Text="vibrate" Clicked="ChangeToVPage"/>
-            <Button Text="TextToS" Clicked="ChangeToVPage"/>
+            <Button Text="TextToS" Clicked="ChangeToTPage"/>
         </StackLayout>
         <!-- Place new controls here -->
         <Label x:Name="LabelLevel"/>
