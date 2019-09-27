@@ -5,6 +5,11 @@ C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Deb
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\mscorlib.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Plugin.TextToSpeech.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.Android.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Syncfusion.Licensing.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Syncfusion.SfChart.XForms.Android.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Syncfusion.SfChart.XForms.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -67,4 +72,12 @@ C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Deb
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
 C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\android\assets\Mono.Security.dll

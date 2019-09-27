@@ -53,6 +53,9 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Syncfusion.Xamarin.SfChart">
+      <Version>17.2.0.51</Version>
+    </PackageReference>
     <PackageReference Include="Xam.Plugins.TextToSpeech">
       <Version>4.0.0.7</Version>
     </PackageReference>
@@ -106,6 +109,9 @@
       <Project>{082ECEBF-2416-4B77-B197-426B7D4E40AC}</Project>
       <Name>coat</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\bob.mp3" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

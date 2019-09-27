@@ -42,6 +42,10 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[17.2.0.51, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.3.0, )"
@@ -109,6 +113,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[17.2.0.51, )"
             },
             "Xam.Plugins.TextToSpeech": {
               "target": "Package",

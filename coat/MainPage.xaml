@@ -6,18 +6,23 @@
              mc:Ignorable="d"
              x:Class="coat.MainPage"  >
 
-    
-    
+
+
     <StackLayout x:Name="page" BackgroundColor="White"   HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" >
-        <StackLayout>
-            <Button Text="vibrate" Clicked="ChangeToVPage"/>
-            <Button Text="TextToS" Clicked="ChangeToTPage"/>
+        <StackLayout >
+            
+            <Button Text="goto: vibrate" Clicked="ChangeToVPage"/>
+            <Button Text="goto: Text To Speach" Clicked="ChangeToTPage"/>
+            <Button Text="goto: Charts" Clicked="ChangeToCPage"/>
+            <Button Text="Drain Battery" Clicked="DrainBattery"/>
+            
         </StackLayout>
-        <!-- Place new controls here -->
+       
         <Label x:Name="LabelLevel"/>
         <Label x:Name="LabelState"/>
         <Label x:Name="LabelPowersource"/>
+        
     </StackLayout>
 
 </ContentPage>

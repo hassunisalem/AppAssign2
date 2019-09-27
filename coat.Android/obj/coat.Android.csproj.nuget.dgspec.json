@@ -42,6 +42,10 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[17.2.0.51, )"
+            },
             "Xam.Plugins.TextToSpeech": {
               "target": "Package",
               "version": "[4.0.0.7, )"
@@ -130,6 +134,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Syncfusion.Xamarin.SfChart": {
+              "target": "Package",
+              "version": "[17.2.0.51, )"
             },
             "Xam.Plugins.TextToSpeech": {
               "target": "Package",

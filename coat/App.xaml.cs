@@ -1,16 +1,19 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Android.Media;
 
 namespace coat
 {
     public partial class App : Application
     {
-        public App()
+        public App(MediaPlayer player)
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage( new MainPage());
+            MainPage = new NavigationPage(new MainPage(player));
+            // new Charts();
+
         }
 
         protected override void OnStart()

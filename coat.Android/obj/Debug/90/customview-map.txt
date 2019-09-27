@@ -1,45 +1,79 @@
-@string/appbar_scrolling_view_behavior;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-@string/appbar_scrolling_view_behavior;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-@string/appbar_scrolling_view_behavior;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\shellcontent.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-alpha;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
-alpha;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
-android.support.design.widget.AppBarLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.AppBarLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.design.widget.AppBarLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
-android.support.design.widget.BottomNavigationView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
-android.support.design.widget.CoordinatorLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.CoordinatorLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.design.widget.CoordinatorLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
-android.support.design.widget.TabLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+alpha;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_fade_in.xml
+alpha;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_fade_out.xml
+alpha;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
-android.support.v4.widget.NestedScrollView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.v4.widget.NestedScrollView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
-android.support.v7.widget.RecyclerView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-android.support.v7.widget.Toolbar;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.v7.widget.Toolbar;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.v4.widget.NestedScrollView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\rootlayout.xml
+android.support.v4.widget.NestedScrollView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-cache-path;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
-external-cache-path;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+Com.Syncfusion.Charts.ChartAnnotationRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartAxisRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartBehaviorRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+com.syncfusion.charts.ChartLegendIconView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend_item.xml
+com.syncfusion.charts.ChartLegendItemsLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend.xml
+Com.Syncfusion.Charts.ChartLegendLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+com.syncfusion.charts.ChartLegendScrollView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend.xml
+com.syncfusion.charts.ChartLegendTitleView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend.xml
+Com.Syncfusion.Charts.ChartRootLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartStripLinesRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.ChartTitle;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.GridLinesRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.SeriesRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Charts.TechnicalIndicatorRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+Com.Syncfusion.Rangenavigator.GridLinesRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\range_navigator_layout.xml
+Com.Syncfusion.Rangenavigator.LabelsRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\range_navigator_layout.xml
+Com.Syncfusion.Rangenavigator.ThumbRenderer;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\range_navigator_layout.xml
+external-cache-path;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+FrameLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_layout.xml
+FrameLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\range_navigator_layout.xml
+FrameLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\bottomtablayout.xml
+HorizontalScrollView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend.xml
 item;obj\Debug\90\res\values\styles.xml
-LinearLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
-paths;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+LinearLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend.xml
+LinearLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend_item.xml
+LinearLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\layout\bottomtablayout.xml
+paths;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\range_navigator_layout.xml
+resources;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\values\strings.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\styles.xml
-set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
-set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
-set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
-set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+scale;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_scale_in.xml
+scale;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_scale_out.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_fade_in.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_fade_out.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_scale_in.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\anim\sfchart_scale_out.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\enterfromleft.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\enterfromright.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\exittoleft.xml
+set;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\exittoright.xml
+string;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\values\strings.xml
 style;obj\Debug\90\res\values\styles.xml
-translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
-translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
-translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
-translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+TextView;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\4\jl\res\layout\chart_legend_item.xml
+translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\enterfromleft.xml
+translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\enterfromright.xml
+translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\exittoleft.xml
+translate;C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\obj\Debug\90\lp\45\jl\res\anim\exittoright.xml

@@ -6,6 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Essentials;
+using Plugin.TextToSpeech;
+using Android.Media;
+
+
 
 namespace coat
 {
@@ -14,17 +18,28 @@ namespace coat
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        MediaPlayer p;
+
+        double level = Battery.ChargeLevel;
+
+
+        public MainPage(MediaPlayer player)
         {
+
             InitializeComponent();
             Battery.BatteryInfoChanged += Battery_BatteryInfoChanged;
-
-        }
+            this.p = player;
+            
+    }
         protected override void OnAppearing()
         {
+            
             base.OnAppearing();
             BatteryStats();
             SetCollor();
+            
+            
+
         }
 
 
@@ -37,7 +52,7 @@ namespace coat
 
         public void BatteryStats()
         {
-            var level = Battery.ChargeLevel; // returns 0.0 to 1.0 or 1.0 when on AC or no battery.
+           
 
             var state = Battery.State;
 
@@ -89,7 +104,7 @@ namespace coat
 
         public void SetCollor()
         {
-            var level = Battery.ChargeLevel;
+         
 
             if (level > 0.5)
             {
@@ -103,11 +118,15 @@ namespace coat
 
             if (level < 0.2)
             {
+                CrossTextToSpeech.Current.Speak("Battery level low! Battery is under 20%");
                 DisplayAlert("Battery level low!", "Battery is under 20%", "OK");
+               
                 Vibration.Vibrate(TimeSpan.FromSeconds(1));
                 page.BackgroundColor = Xamarin.Forms.Color.Red;
             }
         }
+
+        // Navigation
 
         private void ChangeToVPage(object sender, EventArgs e)
         {
@@ -117,6 +136,53 @@ namespace coat
         private void ChangeToTPage(object sender, EventArgs e)
         {
             Navigation.PushAsync(new TextToS());
+        }
+
+        private void ChangeToCPage(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Charts());
+        }
+
+
+
+        private async void DrainBattery(object sender, EventArgs e)
+        {
+
+            await CrossTextToSpeech.Current.Speak("i am draining all of your battery now, please sit back and enjoy this completely unnecessary feature");
+            p.Start();
+
+            
+            Vibration.Vibrate(TimeSpan.FromSeconds(100));
+
+            // C:\Users\hasss\Documents\Visual Studio 2019\MobileApps\coat\coat.Android\Resources\song\Bob-Marley-Buffalo-Soldier.mp3
+            try  {
+                for (int i = 0; i < 100; i++) {
+                    // Turn On
+                    await Flashlight.TurnOnAsync();
+
+                    // Turn Off
+                    await Flashlight.TurnOffAsync();
+
+                }
+
+                
+            }
+            catch (FeatureNotSupportedException fnsEx)
+            {
+                // Handle not supported on device exception
+            }
+            catch (PermissionException pEx)
+            {
+                // Handle permission exception
+            }
+            catch (Exception ex)
+            {
+                // Unable to turn on/off flashlight
+            }
+
+            
+
+
         }
     }
 }
